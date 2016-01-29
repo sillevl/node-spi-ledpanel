@@ -1,0 +1,26 @@
+{
+  "name": "spi-ledpanel",
+  "version": "1.0.0",
+  "description": "Node library for using ledpanels using SPI",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sillevl/node-spi-ledpanel.git"
+  },
+  "keywords": [
+    "node",
+    "spi",
+    "raspberry",
+    "pi",
+    "rpi"
+  ],
+  "author": "Sille Van Landschoot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sillevl/node-spi-ledpanel/issues"
+  },
+  "homepage": "https://github.com/sillevl/node-spi-ledpanel#readme"
+}
