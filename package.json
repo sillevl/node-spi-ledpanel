@@ -22,5 +22,12 @@
   "bugs": {
     "url": "https://github.com/sillevl/node-spi-ledpanel/issues"
   },
-  "homepage": "https://github.com/sillevl/node-spi-ledpanel#readme"
+  "homepage": "https://github.com/sillevl/node-spi-ledpanel#readme",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  },
+  "dependencies": {
+    "spi": "^0.2.0"
+  }
+
 }
